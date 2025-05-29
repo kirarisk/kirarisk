@@ -1,70 +1,97 @@
-# 👋 Hi, I'm Kira
-### **BSc Software Engineer | Rust Engineer | SVM Researcher | AI/ML Enthusiast**
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kirarisk.kirarisk" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-kirarisk-181717?style=flat&logo=github&logoColor=white)](https://github.com/kirarisk)
-[![Twitter](https://img.shields.io/badge/Twitter-@kira__risk-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/kira_risk)
-[![Solana](https://img.shields.io/badge/Solana-Dev-14F195?style=flat&logo=solana&logoColor=white)](https://solana.com)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Kira!;" />
+</h1>
 
----
+<h3 align="center">BSc Software Engineer | Rust Engineer | SVM Researcher | AI/ML Enthusiast</h3>
 
-### 🛠 **Tech Stack**
-#### **Languages**
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+<br/>
 
-#### **Frameworks**
-![Solana](https://img.shields.io/badge/Solana-14F195?style=flat&logo=solana&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor-0F172A?style=flat&logo=anchor&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+<div align="center">
+ 
+ 💻 I'm currently researching **Solana Virtual Machine optimizations**
+ 
+ 🧠 Passionate about blockchain infrastructure, AI integration, and decentralized systems
 
-### 🚀 **Featured Projects**
+</div>
+
+<div align="center"> 
+  <a href="https://github.com/kirarisk" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://x.com/kira_risk" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://solana.com" target="_blank">
+    <img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=rust,solana,react,nextjs,flutter,firebase" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,dart,solidity" /><br>
+    <img src="https://skillicons.dev/icons?i=php,bash,html,css,postgresql,git" />
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">🚀 Featured Projects</h2>
+<div align="center">
+  
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Kira-Scheduler-Validator](https://github.com/kirarisk/Kira-Scheduler-Validator)** | Custom scheduler for Solana’s banking stage | `Rust` `SVM` `Agave` |
+| **[Kira-Scheduler-Validator](https://github.com/kirarisk/Kira-Scheduler-Validator)** | Custom scheduler for Solana's banking stage | `Rust` `SVM` `Agave` |
 | **[Sagent](https://sagent.vercel.app/)** | AI-powered Solana on-chain assistant | `Rust` `Next.js` `LangChain` |
-| **[DeParty](https://departy.vercel.app)** | Token-gated video conferencing with Solana governance | `Rust` `Next.js` `LiveKit` |
-| **[PumpTweets](https://github.com/kirarisk/PumpTweets)** | Real-time Pump.fun token alerts | `Python` `Twikit API` |
+| **[DeParty](https://departy.vercel.app)** | Token-gated video conferencing | `Rust` `Next.js` `LiveKit` |
+| **[PumpTweets](https://github.com/kirarisk/PumpTweets)** | Real-time Pump.fun alerts | `Python` `Twikit API` |
 
----
+</div>
 
-### 📈 **GitHub Stats**
-![Karim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirarisk&show_icons=true&theme=radical&hide_border=true)
+<br/>
+<hr/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirarisk&layout=compact&theme=radical&hide_border=true)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kirarisk/kirarisk/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
 
----
+<hr/>
 
-### 🏆 **Affiliations**
+<h2 align="center">🏆 Affiliations</h2>
+<div align="center">
+  
 - **Turbine Elites Program** (Solana Rollup Development) 
 - **Turbin3 Builders Cohort** (Solana Core Development)  
 - **Turbin3 SVM Cohort** (Solana Virtual Machine Research)  
 - **School of Solana S6** (Ackee Blockchain Security)
 - **Pre-Security Cert** (TryHackMe) 
 
----
+</div>
 
+<hr/>
 
-### 📜 **Philosophy**
+<h2 align="center">📜 Philosophy</h2>
+<div align="center">
+  
 > *"I believe in decentralization as a tool for self-empowerment. My mission is to build technology that removes barriers—whether in DeFi, AI, or cybersecurity."*
 
----
+</div>
 
-### 📫 **Let’s Collaborate!**
-- 💡 Interested in **Web3, AI, or Open-Source**? DM me!
+<hr/>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <div align="center">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kirarisk&show_icons=true&theme=radical&hide_border=true" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirarisk&layout=compact&theme=radical&hide_border=true" />
+    <img alt="Streak Stats" src="https://streak-stats.demolab.com/?user=kirarisk&theme=radical&border_radius=10" />
+  </div>
+</details>
