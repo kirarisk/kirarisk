@@ -33,9 +33,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=rust,solana,react,nextjs,flutter,firebase" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,dart,solidity" /><br>
-    <img src="https://skillicons.dev/icons?i=php,bash,html,css,postgresql,git" />
+    <img src="https://skillicons.dev/icons?i=rust,solana,react,nextjs,flutter" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,solidity" /><br>
+    <img src="https://skillicons.dev/icons?i=php,bash,html,css,postgresql" />
 </div>
 
 <br/>
