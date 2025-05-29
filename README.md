@@ -66,8 +66,8 @@
 <div align="center">
   
 - **Turbine Elites Program** (Solana Rollup Development) 
-- **Turbin3 Builders Cohort** (Solana Core Development)  
-- **Turbin3 SVM Cohort** (Solana Virtual Machine Research)  
+- **Turbin3 Builders Cohort** (Solana Programs Development)  
+- **Turbin3 SVM Cohort** (Solana Virtual Machine Development & Research)  
 - **School of Solana S6** (Ackee Blockchain Security)
 - **Pre-Security Cert** (TryHackMe) 
 
