@@ -33,8 +33,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=rust,react,nextjs,flutter,firebase" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,solidity" /><br>
+    <img src="https://skillicons.dev/icons?i=rust,solana,react,nextjs,flutter,firebase" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,dart,solidity" /><br>
     <img src="https://skillicons.dev/icons?i=php,bash,html,css,postgresql,git" />
 </div>
 
@@ -59,7 +59,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kirarisk/kirarisk/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/kirarisk/kirarisk/blob/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
