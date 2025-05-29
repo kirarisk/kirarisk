@@ -12,29 +12,29 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # This is the critical addition
+      contents: write
     
     steps:
-      - name: Checkout repository
+      - name: Checkout output branch
         uses: actions/checkout@v4
         with:
-          ref: output  # Checkout the output branch directly
-          persist-credentials: false  # Important for auth
-    
+          ref: output
+          path: output-files
+
       - name: Generate snake graphics
         uses: Platane/snk@v3
-        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-    
+            output-files/github-contribution-grid-snake.svg
+            output-files/github-contribution-grid-snake-dark.svg?palette=github-dark
+            output-files/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
       - name: Commit and push changes
         run: |
+          cd output-files
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dist/
+          git add .
           git commit -m "Update snake graphics [skip ci]" || echo "No changes to commit"
           git push origin output
