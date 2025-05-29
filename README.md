@@ -23,9 +23,6 @@
   <a href="https://x.com/kira_risk" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
   </a>
-  <a href="https://solana.com" target="_blank">
-    <img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=white" target="_blank" />
-  </a>
 </div>
 
 <hr/>
