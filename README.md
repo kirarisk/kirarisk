@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 💻 I'm currently researching **Solana Virtual Machine optimizations**
+ 💻 I'm currently working on **Solana Virtual Machine optimizations**
  
  🧠 Passionate about blockchain infrastructure, AI integration, and decentralized systems
 
