@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">Rust Engineer | SVM Researcher | Security Enthusiast</h3>
-    <img src="https://static.cdnlogo.com/logos/s/85/solana.svg"
+    <img src="https://static.cdnlogo.com/logos/s/85/solana.svg"/>
 
 <br/>
 
