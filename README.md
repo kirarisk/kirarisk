@@ -30,8 +30,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=rust,react" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,ts" /><br>
+    <img src="https://skillicons.dev/icons?i=rust,c,cpp,ts,python,react" />
 </div>
 
 <br/>
