@@ -12,7 +12,6 @@
  
  💻 I'm currently working on **SVM & Rust dev tools**
  
- 🧠 Passionate about blockchain infrastructure, AI integration, and decentralized systems
 
 </div>
 
