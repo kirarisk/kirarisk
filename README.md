@@ -5,6 +5,7 @@
 </h1>
 
 <h3 align="center">Rust Engineer | SVM Researcher | Security Enthusiast</h3>
+    <img src="https://static.cdnlogo.com/logos/s/85/solana.svg"
 
 <br/>
 
@@ -16,9 +17,6 @@
 </div>
 
 <div align="center"> 
-  <a href="https://github.com/kirarisk" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://x.com/kira_risk" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
   </a>
