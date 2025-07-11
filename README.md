@@ -40,6 +40,7 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[Fast-CLOB](https://github.com/kirarisk/manifest)** | Sub 50ms CLOB forked from manifest with ER delegation | `Rust` `TypeScript` |
+| **[pinocchio-raydium-cpmm-cpi](https://github.com/kirarisk/pinocchio-raydium-cpmm-cpi)** | A Pinocchio helper library for Raydium CPMM program CPI | `Rust` |
 | **[Kira-Scheduler-Validator](https://github.com/kirarisk/Kira-Scheduler-Validator)** | Custom scheduler for Solana's banking stage | `Rust` `SVM` `Agave` |
 | **[Sagent](https://sagent.vercel.app/)** | AI-powered Solana on-chain assistant | `Rust` `Next.js` `LangChain` |
 | **[DeParty](https://departy.vercel.app)** | Token-gated video conferencing | `Rust` `Next.js` `LiveKit` |
