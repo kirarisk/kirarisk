@@ -75,7 +75,7 @@
 <h2 align="center">📜 Philosophy</h2>
 <div align="center">
   
-> *"I believe in decentralization as a tool for self-empowerment. My mission is to build technology that removes barriers in DeFi, AI, or cybersecurity."*
+> *"I believe in decentralization as a tool for self-empowerment. My mission is to build technology that removes barriers in DeFi, AI, and cybersecurity."*
 
 </div>
 
